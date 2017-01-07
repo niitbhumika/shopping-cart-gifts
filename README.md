@@ -1,2 +1,1 @@
-# shopping-cart-gifts
-gifts gallery
+#<This is my first project>
