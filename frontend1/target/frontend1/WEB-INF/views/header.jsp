@@ -13,7 +13,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head> 
    <body>
-   <td>Welcome ${loggedInUser}</td>
+   <body background="background.jpg">
   <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -36,7 +36,7 @@
             <c:when test="${empty loggedInUser}">
          
         <li><a href="login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-        <li><a href="register"><span class="glyphicon glyphicon-user"></span> Register</a></li>
+        <li><a href="memberShip.obj"><span class="glyphicon glyphicon-user"></span> Register</a></li>
            </c:when>
            
            <c:when test="${not empty loggedInUser}">

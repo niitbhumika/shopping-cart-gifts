@@ -1,4 +1,4 @@
-/*package com.niit.shoppingcart.frontend.Handler;
+package com.niit.shoppingcart.frontend.Handler;
 
 import org.springframework.binding.message.MessageBuilder;
 import org.springframework.binding.message.MessageContext;
@@ -23,12 +23,7 @@ public class RegistrationHandler {
 			status = "failure";
 			System.out.println("name pass");
 		}
-		if(user.getId().isEmpty()){
-			messageContext.addMessage(new MessageBuilder().error().source(
-					"id").defaultText("UserId cannot be Empty").build());
-			status = "failure";
-			System.out.println("userid pass");
-		}
+		
 		if(user.getPassword().isEmpty()){
 			messageContext.addMessage(new MessageBuilder().error().source(
 					"password").defaultText("Password cannot be Empty").build());
@@ -70,4 +65,3 @@ public class RegistrationHandler {
 		return status;
 	}
 }
-*/
