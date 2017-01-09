@@ -12,12 +12,12 @@ Data (products, categories, discounts, orders, customers, etc.) is normally stor
 
 
 
-*Team Members*
+#<Team Members>
 <a name="team-members"></a>Team Members
 "Angara Sandhyasri" a.sandhyasri@gmail.com<br>
 "Abbas" abbas886@yahoo.com<br>
 
-**Tecniques Used ** <br>
+#<Tecniques Used >
 Maven<br>
 Bootstrap<br>
 CSS<br>
@@ -30,9 +30,6 @@ Concepts Used :
 2)	Spring MVC application
 3)	Need a concept of Core Java , Jsp , Database , Spring frame work , Hibernate Validation, Spring Security ,Web Flow using XML.
 
-**Installation Part**
-[**JDKInstallation**] version 1.8 is used<br>to download jdk   <a href= "http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html"> Click here <a/>
-[**Tomcat Server Installation**] version 8.00 is used<br>
 
 
 
@@ -65,6 +62,7 @@ Concepts Used :
 Sandhya Angasri
 Hat tip to anyone who's code was used<br>
 Inspiration<br>
+
 
 
 
