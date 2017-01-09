@@ -5,6 +5,7 @@ At the very core of an online storefront is the shopping cart system that enable
 These applications typically provide a means of capturing a client's payment information, but in the case of a credit card they rely on the software module of the secure gateway provider, in conjunction with the secure payment gateway, in order to conduct secure credit card transactions online.Some setup must be done in the HTML code of the website, and the shopping cart software must be installed on the server which hosts the site, or on the secure server which accepts sensitive ordering information.
 Data (products, categories, discounts, orders, customers, etc.) is normally stored in a database and accessed in real time by the software.Shopping Cart Software is also known as e-commerce software, e-store software, online store software or storefront software and online shop.<br>
 
+
 #<Team Members>
 <a name="team-members"></a>Team Members
 "Angara Sandhyasri" a.sandhyasri@gmail.com<br>
@@ -17,5 +18,11 @@ CSS<br>
 AngularJS<br>
 Hibernate<br>
 H2 Database<br>
+
+Concepts Used :
+1)	Maven Project
+2)	Spring MVC application
+3)	Need a concept of Core Java , Jsp , Database , Spring frame work , Hibernate Validation, Spring Security ,Web Flow using XML.
+
 
 
