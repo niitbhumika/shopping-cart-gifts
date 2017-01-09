@@ -8,6 +8,8 @@ Data (products, categories, discounts, orders, customers, etc.) is normally stor
 
 ![readme](https://cloud.githubusercontent.com/assets/22499442/21760723/5dfda814-d674-11e6-8031-bdddaf6c813b.jpg)
 ![readme2](https://cloud.githubusercontent.com/assets/22499442/21761218/6f467d96-d677-11e6-8d26-3ca37d526c0f.jpg)
+![birthday1](https://cloud.githubusercontent.com/assets/22499442/21763759/8736aa6c-d685-11e6-8f5c-69a2168e4527.jpg)
+
 
 
 #<Team Members>
