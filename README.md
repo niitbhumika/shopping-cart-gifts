@@ -10,7 +10,7 @@ Data (products, categories, discounts, orders, customers, etc.) is normally stor
 "Angara Sandhyasri" a.sandhyasri@gmail.com<br>
 "Abbas" abbas886@yahoo.com<br>
 
-#<u><Tecniques Used ><u>
+#<Tecniques Used >
 Maven<br>
 Bootstrap<br>
 CSS<br>
