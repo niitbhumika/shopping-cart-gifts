@@ -7,6 +7,8 @@ These applications typically provide a means of capturing a client's payment inf
 Data (products, categories, discounts, orders, customers, etc.) is normally stored in a database and accessed in real time by the software.Shopping Cart Software is also known as e-commerce software, e-store software, online store software or storefront software and online shop.<br>
 
 ![readme](https://cloud.githubusercontent.com/assets/22499442/21760723/5dfda814-d674-11e6-8031-bdddaf6c813b.jpg)
+![readme2](https://cloud.githubusercontent.com/assets/22499442/21761218/6f467d96-d677-11e6-8d26-3ca37d526c0f.jpg)
+
 
 #<Team Members>
 <a name="team-members"></a>Team Members
