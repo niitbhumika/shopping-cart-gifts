@@ -7,7 +7,7 @@ Data (products, categories, discounts, orders, customers, etc.) is normally stor
 
 #<Team Members>
 <a name="team-members"></a>Team Members
-"J. Jesus. P. Aguinaga" admin@listforks.com
+"Angara Sandhyasri" a.sandhyasri@gmail.com
 
 
 
